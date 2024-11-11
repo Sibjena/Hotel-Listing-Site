@@ -1,0 +1,14 @@
+pk.eyJ1Ijoic291bXlhMjAwMyIsImEiOiJjbTF6eHVqb3UwYnY3MmxzZnBvdTNzbHNzIn0.TKuQ5Qz72A51oTMC_ve8Pg
+
+mail:jenaprusty@gmail.com
+username: SoumyaJena
+password:pm49CbsU1SmjtNOw
+mongodb+srv://SoumyaJena:Soumya jena@cluster0.2gwmh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+mail:soumyajena642@gmail.com
+username: Soumya
+password:-40ukzeJhr9MUAzHi
+
+mongodb+srv://Soumya:40ukzeJhr9MUAzHi@cluster0.phrns.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
